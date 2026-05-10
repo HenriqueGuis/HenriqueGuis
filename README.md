@@ -32,12 +32,12 @@ para IIoT.
 
 ## Stack
 
-**Linguagens:** Python · SQL · PySpark
-**Streaming & mensageria:** MQTT · Kafka · RabbitMQ · Node-RED
-**Orquestração & infra:** Docker · Kubernetes (K3s) · Apache Airflow
-**Dados:** InfluxDB · Databricks · Spark
-**Observabilidade:** Grafana · Prometheus · Zabbix
-**Industrial:** Ignition · OPC-UA
+- **Linguagens:** Python · SQL · PySpark
+- **Streaming & mensageria:** MQTT · Kafka · RabbitMQ · Node-RED
+- **Orquestração & infra:** Docker · Kubernetes (K3s) · Apache Airflow
+- **Dados:** InfluxDB · Databricks · Spark
+- **Observabilidade:** Grafana · Prometheus · Zabbix
+- **Industrial:** Ignition · OPC-UA
 
 ## Contato
 
